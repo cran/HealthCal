@@ -31,7 +31,7 @@ BMR, HealthCal
 }
 \examples{
 dataset45=c(175,90,25)
-BMI(dataset45)
+BMR(dataset45)
 }
 \keyword{BMR}
 \keyword{HealthCal}
